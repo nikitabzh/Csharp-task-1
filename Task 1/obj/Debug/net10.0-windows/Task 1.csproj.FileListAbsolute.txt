@@ -1,0 +1,21 @@
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\bin\Debug\net10.0-windows\Task 1.exe
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\bin\Debug\net10.0-windows\Task 1.deps.json
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\bin\Debug\net10.0-windows\Task 1.runtimeconfig.json
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\bin\Debug\net10.0-windows\Task 1.dll
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\bin\Debug\net10.0-windows\Task 1.pdb
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\MainWindow.g.cs
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\App.g.cs
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1_MarkupCompile.cache
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1_MarkupCompile.lref
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\MainWindow.baml
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.g.resources
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.AssemblyInfoInputs.cache
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.AssemblyInfo.cs
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.csproj.CoreCompileInputs.cache
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.dll
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\refint\Task 1.dll
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.pdb
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.genruntimeconfig.cache
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\ref\Task 1.dll
