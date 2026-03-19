@@ -19,3 +19,4 @@ C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информаци
 C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.pdb
 C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.genruntimeconfig.cache
 C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\ref\Task 1.dll
+C:\Users\ник\OneDrive\ВГУ\3 курс - 6 семестр\Информационные технологии\task 1\Task 1\obj\Debug\net10.0-windows\Task 1.sourcelink.json
